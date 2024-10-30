@@ -1,6 +1,6 @@
 # GoCurl
 
-A Command line tool to transfers data with URL syntax, for making HTTP/HTTPS requests. 
+A Command line tool to transfer data with URL syntax, for making HTTP/HTTPS requests. 
 
 
 ## Features
